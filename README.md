@@ -24,10 +24,7 @@ Este projeto envolve a implementação de um contrato inteligente em Solidity pa
 
 - `ContratoAnac/`
   - `contract_Anac.sol`: Contrato inteligente em Solidity para gerenciar a idade.
-- `images/`
-  - `image.png`: Imagem ilustrativa do contrato.
-  - `image-1.png`: Imagem de exemplo de modificação de idade pelo dono.
-  - `image-2.png`: Imagem de exemplo de tentativa de modificação de idade por um não-dono.
+- `images/`: Pasta com as imagens dos testes
 - `README.md`: Documentação do projeto.
 
 ## **💻 Tecnologias Utilizadas**
@@ -45,7 +42,7 @@ Os casos de teste foram desenvolvidos para verificar o funcionamento correto do 
    <div align="center">
    <sub>Figura 1 - Visualização inicial da idade</sub>
    <img src="./images/image.png" width="100%" >
-   <sup>Fonte: Material produzido pelos autores (2024)</sup>
+   <sup>Fonte: Material produzido pelo autor (2024)</sup>
    </div>
 
 2. **Testar a modificação da idade por um não-dono:**
@@ -54,7 +51,7 @@ Os casos de teste foram desenvolvidos para verificar o funcionamento correto do 
    <div align="center">
    <sub>Figura 2 - Tentativa de modificação por não-dono</sub>
    <img src="./images/image-2.png" width="100%" >
-   <sup>Fonte: Material produzido pelos autores (2024)</sup>
+   <sup>Fonte: Material produzido pelo autor (2024)</sup>
    </div>
 
 3. **Testar a modificação e obtenção da idade pelo dono:**
@@ -63,5 +60,5 @@ Os casos de teste foram desenvolvidos para verificar o funcionamento correto do 
    <div align="center">
    <sub>Figura 3 - Modificação de idade pelo dono</sub>
    <img src="./images/image-1.png" width="100%" >
-   <sup>Fonte: Material produzido pelos autores (2024)</sup>
+   <sup>Fonte: Material produzido pelo autor (2024)</sup>
    </div>
